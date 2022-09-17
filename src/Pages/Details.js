@@ -1,6 +1,12 @@
-import blogData from "../Data/blogData";
 import { useParams } from "react-router-dom";
+
+// IMPORT ARRAY
+import blogData from "../Data/blogData";
+
+// IMPORT COMPONENTS
 import Nav from "../Components/Nav";
+
+//IMPORT CSS
 import "./Detail.css";
 
 const Details = () => {

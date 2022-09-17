@@ -1,8 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
+// IMPORT CSS
 import "./App.css";
 
-// import Nav from "./Components/Nav";
+// IMPORT PAGES
 import Home from "./Pages/Home";
 import Blog from "./Pages/Blog";
 import Details from "./Pages/Details";
@@ -11,7 +12,6 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        {/* <Nav /> */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/blog" element={<Blog />} />

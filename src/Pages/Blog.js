@@ -1,5 +1,8 @@
-import ArticleTeaser from "../Components/ArticleTeaser";
+// IMPORT ARRAY
 import blogData from "../Data/blogData";
+
+// IMPORT COMPONENTS
+import ArticleTeaser from "../Components/ArticleTeaser";
 import Nav from "../Components/Nav";
 
 const Blog = () => {

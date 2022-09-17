@@ -1,5 +1,9 @@
 import { Link } from "react-router-dom";
+
+//IMPORT CSS
 import "./Home.css";
+
+//IMPORT COMPONENTS
 import Nav from "../Components/Nav";
 
 const Home = () => {
