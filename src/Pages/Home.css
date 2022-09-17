@@ -1,0 +1,17 @@
+h2 {
+  width: 250px;
+  word-wrap: break-word;
+  height: 76px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 38px;
+
+  color: #0d4625;
+}
+
+.header-section {
+  padding: 108px 160px;
+}

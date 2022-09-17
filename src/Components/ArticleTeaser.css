@@ -1,0 +1,19 @@
+.article-teaser-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 64px;
+}
+
+.article-teaser img {
+  width: 280px;
+  height: 200px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.article-teaser p {
+  font-weight: 900;
+  font-size: 16px;
+  color: #0d4625;
+}
