@@ -6,6 +6,8 @@
   height: 600px;
   border-radius: 10px 0px 0px 10px;
   object-position: right bottom;
+  width: 85vw;
+  object-fit: cover;
 }
 
 .image-container {
